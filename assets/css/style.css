@@ -306,7 +306,7 @@ body {
 .rotate-img { display: none; }
 
 .hero {
-  background-image: url("../images/hero-bg.jpg");
+  background-image: url("../images/bg1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -367,7 +367,7 @@ body {
 .abs-img,
 .abs-icon { display: none; }
 
-.about { padding-block-start: 120px; }
+.about { padding-block-start: 120px;}
 
 .about-banner {
   background-color: var(--independence);
